@@ -1,8 +1,8 @@
-# ArcanoZero
+# RestaurantZero
 
 ## Case Study
 
-ArcanoZero is a private restaurant commerce project designed around configurable branding and a progressive path from first party ordering to broader operational capabilities.
+RestaurantZero is a private restaurant commerce project designed around configurable branding and a progressive path from first party ordering to broader operational capabilities.
 
 This repository is a portfolio case study. It does not contain the private source code or the internal technical documentation required to reproduce the product.
 
@@ -10,7 +10,7 @@ This repository is a portfolio case study. It does not contain the private sourc
 
 Restaurants often depend on external platforms for customer relationships, ordering and operational data.
 
-ArcanoZero explores how a restaurant can progressively own more of its digital commerce experience while keeping the software architecture adaptable to future integrations.
+RestaurantZero explores how a restaurant can progressively own more of its digital commerce experience while keeping the software architecture adaptable to future integrations.
 
 The engineering challenge is to build useful commerce capabilities now without prematurely coupling the system to payment providers, logistics providers, ERP platforms or infrastructure that has not yet been justified.
 
@@ -146,7 +146,7 @@ This list describes demonstrated engineering areas, not the full private reposit
 
 ## Current Boundaries
 
-ArcanoZero is an active development project.
+RestaurantZero is an active development project.
 
 The public case should not be interpreted as evidence of:
 
@@ -168,6 +168,6 @@ Source code, provider designs, internal specifications, database details beyond 
 
 ## Portfolio Context
 
-ArcanoZero demonstrates conventional product engineering performed through an AI directed workflow.
+RestaurantZero demonstrates conventional product engineering performed through an AI directed workflow.
 
-For a complementary example focused on LLM applications, evaluation and deterministic AI boundaries, see the Pulso case study in my GitHub profile.
+For a complementary example focused on LLM applications, evaluation and deterministic AI boundaries, see the Pulsar case study in my GitHub profile.
