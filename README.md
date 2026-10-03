@@ -16,21 +16,25 @@ The engineering challenge is to build useful commerce capabilities now without p
 
 ## My Role
 
-I direct the product and engineering process with AI coding agents acting as implementation collaborators.
+My direct contribution is product conception, flow definition, capability prioritization, solution planning with AI, constraint definition, agent orchestration, and validation of the resulting product behavior.
+
+I do not manually write implementation code or perform line-by-line code review. AI coding agents execute the technical implementation from the context, constraints, specifications, tests, and validation criteria defined during the process.
 
 My responsibilities include:
 
 * Product definition
-* Architecture decisions
-* Domain modeling
-* Technical specifications
+* Flow and capability definition
+* High-level architecture planning with AI
+* Domain and system boundaries
+* Constraints and specifications
 * Agent orchestration
 * Acceptance criteria
-* Review and validation
+* AI-assisted review coordination
 * Security boundaries
+* Result validation
 * Progressive delivery decisions
 
-The project demonstrates an AI directed development workflow applied to conventional product software.
+The project demonstrates an AI-directed development workflow applied to conventional product software.
 
 ## Current Product Foundation
 
@@ -114,7 +118,7 @@ Customer facing identity is configuration driven so a deployment does not requir
 
 ### Agent Directed Development
 
-AI coding agents perform implementation work under explicit architecture, scope constraints and acceptance criteria.
+AI coding agents perform the implementation under explicit architecture principles, scope constraints, tests, and acceptance criteria. Final acceptance is based on behavior, evidence, and alignment with the planned result.
 
 ## Architecture Direction
 
@@ -142,7 +146,7 @@ The private implementation currently includes work across:
 * Idempotent server workflows
 * Configurable branding
 
-This list describes demonstrated engineering areas, not the full private repository.
+This list describes technologies and engineering areas present in the project. It does not imply that I manually program each listed language, framework, or tool, and it does not represent the full private repository.
 
 ## Current Boundaries
 
